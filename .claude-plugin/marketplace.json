@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "claude-ai-news",
+  "owner": {
+    "name": "Boom-Vitt",
+    "email": "vittawat.soo@boombignose.org"
+  },
+  "metadata": {
+    "description": "AI & tech news for Claude Code — research, curate, summarize, and write source-grounded news."
+  },
+  "plugins": [
+    {
+      "name": "ai-news",
+      "source": "./plugins/ai-news",
+      "description": "Daily AI/tech news digests, trend scans, article drafting, and URL summaries — every claim tied to a real, fetched source.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Boom-Vitt",
+        "email": "vittawat.soo@boombignose.org"
+      },
+      "homepage": "https://github.com/Boom-Vitt/claude-ai-news",
+      "repository": "https://github.com/Boom-Vitt/claude-ai-news",
+      "license": "MIT",
+      "keywords": ["ai", "news", "research", "journalism", "summarization", "digest"]
+    }
+  ]
+}

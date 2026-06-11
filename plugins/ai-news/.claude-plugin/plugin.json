@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ai-news",
+  "displayName": "AI News",
+  "version": "0.1.0",
+  "description": "Daily AI/tech news digests, trend scans, article drafting, and URL summaries — every claim tied to a real, fetched source.",
+  "author": {
+    "name": "Boom-Vitt",
+    "email": "vittawat.soo@boombignose.org",
+    "url": "https://github.com/Boom-Vitt"
+  },
+  "homepage": "https://github.com/Boom-Vitt/claude-ai-news",
+  "repository": "https://github.com/Boom-Vitt/claude-ai-news",
+  "license": "MIT",
+  "keywords": ["ai", "news", "research", "journalism", "summarization", "digest"]
+}
